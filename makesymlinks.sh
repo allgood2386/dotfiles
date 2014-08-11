@@ -30,4 +30,9 @@ for file in $files; do
     ln -s $dir/$file ~/.$file
 done
 
+#Move bash completetion to home directory.
+cp .git-completion.bash ~/
+
+source ~/.bash_profile
+
 
