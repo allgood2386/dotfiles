@@ -1,0 +1,3 @@
+<?php
+   $options['drush_usage_log'] = TRUE;
+   $options['drush_usage_send'] = TRUE;
