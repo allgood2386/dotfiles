@@ -1,0 +1,15 @@
+---
+authentication:
+  client_key: c459893a19709a6e462ef534a3ec0c01
+  api_key: 3b880403db25d3d9086565389a820a0e
+ssh:
+  ssh_user: rallen
+  ssh_key_path: /Users/rallen/.ssh/id_rsa
+  ssh_port: '22'
+defaults:
+  region: '1'
+  image: '350076'
+  size: '66'
+  ssh_key: ''
+  private_networking: 'false'
+  backups_enabled: 'false'

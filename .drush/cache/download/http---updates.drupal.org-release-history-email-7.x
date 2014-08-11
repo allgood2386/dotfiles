@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>Email Field</title>
+<short_name>email</short_name>
+<dc:creator>mh86</dc:creator>
+<type>project_module</type>
+<api_version>7.x</api_version>
+<recommended_major>1</recommended_major>
+<supported_majors>1</supported_majors>
+<default_major>1</default_major>
+<project_status>published</project_status>
+<link>https://drupal.org/project/email</link>
+  <terms>
+   <term><name>Projects</name><value>Modules</value></term>
+   <term><name>Maintenance status</name><value>Actively maintained</value></term>
+   <term><name>Development status</name><value>Maintenance fixes only</value></term>
+  </terms>
+<releases>
+ <release>
+  <name>email 7.x-1.3</name>
+  <version>7.x-1.3</version>
+  <tag>7.x-1.3</tag>
+  <version_major>1</version_major>
+  <version_patch>3</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/2237667</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/email-7.x-1.3.tar.gz</download_link>
+  <date>1397134152</date>
+  <mdhash>d827fffe1eb3ed14a34e0cb259b5b250</mdhash>
+  <filesize>12566</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.3.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>d827fffe1eb3ed14a34e0cb259b5b250</md5>
+    <size>12566</size>
+    <filedate>1397134152</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.3.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>71c9388b0caedcf436ad5cc49fd05d1b</md5>
+    <size>14284</size>
+    <filedate>1397134152</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>email 7.x-1.2</name>
+  <version>7.x-1.2</version>
+  <tag>7.x-1.2</tag>
+  <version_major>1</version_major>
+  <version_patch>2</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1761948</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/email-7.x-1.2.tar.gz</download_link>
+  <date>1346254131</date>
+  <mdhash>a2d78e35e91f7989abbf3e7b81fb30c4</mdhash>
+  <filesize>12373</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.2.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>a2d78e35e91f7989abbf3e7b81fb30c4</md5>
+    <size>12373</size>
+    <filedate>1346254131</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.2.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>bc5f9dd051f88fdf79ff293f622bfa7e</md5>
+    <size>13868</size>
+    <filedate>1346254131</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Security update</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>email 7.x-1.1</name>
+  <version>7.x-1.1</version>
+  <tag>7.x-1.1</tag>
+  <version_major>1</version_major>
+  <version_patch>1</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1649228</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/email-7.x-1.1.tar.gz</download_link>
+  <date>1340207779</date>
+  <mdhash>11fb9be984c871935a01aef8db1cf5a3</mdhash>
+  <filesize>11855</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.1.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>11fb9be984c871935a01aef8db1cf5a3</md5>
+    <size>11855</size>
+    <filedate>1340207779</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.1.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>18d3e5f0e7d1aa2f7a77967c16e591c0</md5>
+    <size>13289</size>
+    <filedate>1340207779</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>email 7.x-1.0</name>
+  <version>7.x-1.0</version>
+  <tag>7.x-1.0</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1253016</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/email-7.x-1.0.tar.gz</download_link>
+  <date>1313666248</date>
+  <mdhash>21d657b19e896a99af018d4f3159f835</mdhash>
+  <filesize>9976</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.0.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>21d657b19e896a99af018d4f3159f835</md5>
+    <size>9976</size>
+    <filedate>1313666248</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.0.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>39a4074ec1a63bd2c1417412488a0b36</md5>
+    <size>10848</size>
+    <filedate>1313666248</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>email 7.x-1.0-beta1</name>
+  <version>7.x-1.0-beta1</version>
+  <tag>7.x-1.0-beta1</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta1</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1033830</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/email-7.x-1.0-beta1.tar.gz</download_link>
+  <date>1295529409</date>
+  <mdhash>a14d62686c04c77a170a5e7c728f35ef</mdhash>
+  <filesize>13332</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.0-beta1.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>a14d62686c04c77a170a5e7c728f35ef</md5>
+    <size>13332</size>
+    <filedate>1295529409</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.0-beta1.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>bf6197e185666a51bb750d5a82c95f57</md5>
+    <size>18398</size>
+    <filedate>1295529409</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>email 7.x-1.0-alpha2</name>
+  <version>7.x-1.0-alpha2</version>
+  <tag>7.x-1.0-alpha2</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>alpha2</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/941476</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/email-7.x-1.0-alpha2.tar.gz</download_link>
+  <date>1287061888</date>
+  <mdhash>a99bb8cd5648d2c1c99bdba72e6b123f</mdhash>
+  <filesize>13060</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.0-alpha2.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>a99bb8cd5648d2c1c99bdba72e6b123f</md5>
+    <size>13060</size>
+    <filedate>1287061888</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.0-alpha2.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>ac940cdb57e5bddfc61fb3caf56f0763</md5>
+    <size>17837</size>
+    <filedate>1293231211</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>email 7.x-1.0-alpha1</name>
+  <version>7.x-1.0-alpha1</version>
+  <tag>7.x-1.0-alpha1</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>alpha1</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/709184</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/email-7.x-1.0-alpha1.tar.gz</download_link>
+  <date>1265728810</date>
+  <mdhash>e86a4d95ef75e43f0128d60a196da8c6</mdhash>
+  <filesize>12999</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.0-alpha1.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>e86a4d95ef75e43f0128d60a196da8c6</md5>
+    <size>12999</size>
+    <filedate>1265728810</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.0-alpha1.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>bd81802270eb1e8aef0ddf730f50879c</md5>
+    <size>17709</size>
+    <filedate>1293231211</filedate>
+   </file>
+  </files>
+ </release>
+ <release>
+  <name>email 7.x-1.x-dev</name>
+  <version>7.x-1.x-dev</version>
+  <tag>7.x-1.x</tag>
+  <version_major>1</version_major>
+  <version_extra>dev</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/706022</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/email-7.x-1.x-dev.tar.gz</download_link>
+  <date>1397133854</date>
+  <mdhash>e6bc6ee239c6baaebce0fc209b68f82a</mdhash>
+  <filesize>12573</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.x-dev.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>e6bc6ee239c6baaebce0fc209b68f82a</md5>
+    <size>12573</size>
+    <filedate>1397133854</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/email-7.x-1.x-dev.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>5d2b63003feca73f455ec5d5a55ad009</md5>
+    <size>14290</size>
+    <filedate>1397133854</filedate>
+   </file>
+  </files>
+ </release>
+</releases>
+</project>

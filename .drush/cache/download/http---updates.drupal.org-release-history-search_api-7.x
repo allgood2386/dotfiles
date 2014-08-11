@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>Search API</title>
+<short_name>search_api</short_name>
+<dc:creator>drunken monkey</dc:creator>
+<type>project_module</type>
+<api_version>7.x</api_version>
+<recommended_major>1</recommended_major>
+<supported_majors>1</supported_majors>
+<default_major>1</default_major>
+<project_status>published</project_status>
+<link>https://drupal.org/project/search_api</link>
+  <terms>
+   <term><name>Projects</name><value>Modules</value></term>
+   <term><name>Maintenance status</name><value>Actively maintained</value></term>
+   <term><name>Development status</name><value>Under active development</value></term>
+   <term><name>Module categories</name><value>Search</value></term>
+   <term><name>Module categories</name><value>Views</value></term>
+  </terms>
+<releases>
+ <release>
+  <name>search_api 7.x-1.12</name>
+  <version>7.x-1.12</version>
+  <tag>7.x-1.12</tag>
+  <version_major>1</version_major>
+  <version_patch>12</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/2273125</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.12.tar.gz</download_link>
+  <date>1400837327</date>
+  <mdhash>a19a0f98cfecffd9e512eb5749650d5f</mdhash>
+  <filesize>179927</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.12.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>a19a0f98cfecffd9e512eb5749650d5f</md5>
+    <size>179927</size>
+    <filedate>1400837327</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.12.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>a778fff8e5ef47eb31ad44989600ae5e</md5>
+    <size>225102</size>
+    <filedate>1400837327</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.11</name>
+  <version>7.x-1.11</version>
+  <tag>7.x-1.11</tag>
+  <version_major>1</version_major>
+  <version_patch>11</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/2162611</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.11.tar.gz</download_link>
+  <date>1387965505</date>
+  <mdhash>d78379c20be4ee295bc4094945b80ce7</mdhash>
+  <filesize>175650</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.11.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>d78379c20be4ee295bc4094945b80ce7</md5>
+    <size>175650</size>
+    <filedate>1387965505</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.11.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>21a0a21c455d0e82d7a01b7b80a0618d</md5>
+    <size>220789</size>
+    <filedate>1387965505</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.10</name>
+  <version>7.x-1.10</version>
+  <tag>7.x-1.10</tag>
+  <version_major>1</version_major>
+  <version_patch>10</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/2152787</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.10.tar.gz</download_link>
+  <date>1386581306</date>
+  <mdhash>13c2ff2a5d327ce15afd322fbaa1bdea</mdhash>
+  <filesize>175245</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.10.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>13c2ff2a5d327ce15afd322fbaa1bdea</md5>
+    <size>175245</size>
+    <filedate>1386581306</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.10.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>ef776160963b7753c23a64221d6c7a02</md5>
+    <size>220523</size>
+    <filedate>1386581306</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.9</name>
+  <version>7.x-1.9</version>
+  <tag>7.x-1.9</tag>
+  <version_major>1</version_major>
+  <version_patch>9</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/2118459</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.9.tar.gz</download_link>
+  <date>1382525727</date>
+  <mdhash>ae863e39232d5ab12219e48339ae27b1</mdhash>
+  <filesize>161724</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.9.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>ae863e39232d5ab12219e48339ae27b1</md5>
+    <size>161724</size>
+    <filedate>1382525727</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.9.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>7c05c493e73b56d2ba842b898f741ba5</md5>
+    <size>205635</size>
+    <filedate>1382525728</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.8</name>
+  <version>7.x-1.8</version>
+  <tag>7.x-1.8</tag>
+  <version_major>1</version_major>
+  <version_patch>8</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/2078767</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.8.tar.gz</download_link>
+  <date>1378025826</date>
+  <mdhash>1354bdb8a27ddd856a09406383d6029b</mdhash>
+  <filesize>154912</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.8.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>1354bdb8a27ddd856a09406383d6029b</md5>
+    <size>154912</size>
+    <filedate>1378025826</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.8.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>b4fe9f3ea0b7c802ebbd7ebd52feb602</md5>
+    <size>195445</size>
+    <filedate>1378025826</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.7</name>
+  <version>7.x-1.7</version>
+  <tag>7.x-1.7</tag>
+  <version_major>1</version_major>
+  <version_patch>7</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/2032069</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.7.tar.gz</download_link>
+  <date>1372668956</date>
+  <mdhash>ee32070cf80c89049b428b0c081916da</mdhash>
+  <filesize>148297</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.7.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>ee32070cf80c89049b428b0c081916da</md5>
+    <size>148297</size>
+    <filedate>1372668956</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.7.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>7efd1a05bc163c19fd3d54be9e2ed9d4</md5>
+    <size>188104</size>
+    <filedate>1372668956</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.6</name>
+  <version>7.x-1.6</version>
+  <tag>7.x-1.6</tag>
+  <version_major>1</version_major>
+  <version_patch>6</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/2007106</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.6.tar.gz</download_link>
+  <date>1369840267</date>
+  <mdhash>1445c08d9efd5ff0a3bd405029e5f7e6</mdhash>
+  <filesize>143485</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.6.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>1445c08d9efd5ff0a3bd405029e5f7e6</md5>
+    <size>143485</size>
+    <filedate>1369840267</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.6.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>be669c68c49522c46f06d0411f195f9a</md5>
+    <size>181544</size>
+    <filedate>1369840267</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.5</name>
+  <version>7.x-1.5</version>
+  <tag>7.x-1.5</tag>
+  <version_major>1</version_major>
+  <version_patch>5</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1986792</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.5.tar.gz</download_link>
+  <date>1367683811</date>
+  <mdhash>9cbbf4d2155c18722f35a4587a969936</mdhash>
+  <filesize>140475</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.5.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>9cbbf4d2155c18722f35a4587a969936</md5>
+    <size>140475</size>
+    <filedate>1367683811</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.5.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>8f57fb030c547d7205e1c6e928e14e41</md5>
+    <size>177616</size>
+    <filedate>1367683811</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.4</name>
+  <version>7.x-1.4</version>
+  <tag>7.x-1.4</tag>
+  <version_major>1</version_major>
+  <version_patch>4</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1884076</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.4.tar.gz</download_link>
+  <date>1357726719</date>
+  <mdhash>42ec65014beb9687e60dd751b9507229</mdhash>
+  <filesize>137974</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.4.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>42ec65014beb9687e60dd751b9507229</md5>
+    <size>137974</size>
+    <filedate>1357726719</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.4.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>8cade09a890e584cd2205a394a95999f</md5>
+    <size>175167</size>
+    <filedate>1357726719</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Security update</value></term>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.3</name>
+  <version>7.x-1.3</version>
+  <tag>7.x-1.3</tag>
+  <version_major>1</version_major>
+  <version_patch>3</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1815124</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.3.tar.gz</download_link>
+  <date>1350461221</date>
+  <mdhash>cf8c67a0056fa385eedcdb5d013ae10c</mdhash>
+  <filesize>137615</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.3.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>cf8c67a0056fa385eedcdb5d013ae10c</md5>
+    <size>137615</size>
+    <filedate>1350461221</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.3.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>c3b280d000c03c6396c0d7e9f45dc6fd</md5>
+    <size>174673</size>
+    <filedate>1350461221</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Security update</value></term>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.2</name>
+  <version>7.x-1.2</version>
+  <tag>7.x-1.2</tag>
+  <version_major>1</version_major>
+  <version_patch>2</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1674142</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.2.tar.gz</download_link>
+  <date>1341612141</date>
+  <mdhash>c7ff87666be452eb6fab2b7bea17d7fa</mdhash>
+  <filesize>133724</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.2.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>c7ff87666be452eb6fab2b7bea17d7fa</md5>
+    <size>133724</size>
+    <filedate>1341612141</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.2.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>5d7eb98271502c934c7c3ead473663d6</md5>
+    <size>169579</size>
+    <filedate>1341612141</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.1</name>
+  <version>7.x-1.1</version>
+  <tag>7.x-1.1</tag>
+  <version_major>1</version_major>
+  <version_patch>1</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1596524</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.1.tar.gz</download_link>
+  <date>1337778096</date>
+  <mdhash>a32a70aa0925aeba38427223ab88f136</mdhash>
+  <filesize>132769</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.1.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>a32a70aa0925aeba38427223ab88f136</md5>
+    <size>132769</size>
+    <filedate>1337778096</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.1.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>c992553587939dba86bc65712a0b63ed</md5>
+    <size>168572</size>
+    <filedate>1337778096</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Security update</value></term>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.0</name>
+  <version>7.x-1.0</version>
+  <tag>7.x-1.0</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1371992</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.0.tar.gz</download_link>
+  <date>1323968143</date>
+  <mdhash>10e881f1c4983ca1d62ba896433ae151</mdhash>
+  <filesize>151104</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>10e881f1c4983ca1d62ba896433ae151</md5>
+    <size>151104</size>
+    <filedate>1323968143</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>1e5c4a98a8db3b5149ce85996b7c325c</md5>
+    <size>191868</size>
+    <filedate>1323968143</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.0-rc1</name>
+  <version>7.x-1.0-rc1</version>
+  <tag>7.x-1.0-rc1</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>rc1</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1337772</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-rc1.tar.gz</download_link>
+  <date>1320941436</date>
+  <mdhash>65536b0e30f5e9bec255d17a047938d3</mdhash>
+  <filesize>149658</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-rc1.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>65536b0e30f5e9bec255d17a047938d3</md5>
+    <size>149658</size>
+    <filedate>1320941436</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-rc1.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>9758aa116b98ee2058ee2c71a9d7b310</md5>
+    <size>190408</size>
+    <filedate>1320941436</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.0-beta10</name>
+  <version>7.x-1.0-beta10</version>
+  <tag>7.x-1.0-beta10</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta10</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1193826</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta10.tar.gz</download_link>
+  <date>1308562320</date>
+  <mdhash>0c294f8bd210d09af10b1cf4df315e34</mdhash>
+  <filesize>133689</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta10.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>0c294f8bd210d09af10b1cf4df315e34</md5>
+    <size>133689</size>
+    <filedate>1308562320</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta10.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>efcbb3ac53d00b956e6ff008ca9d5237</md5>
+    <size>172559</size>
+    <filedate>1308562320</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.0-beta9</name>
+  <version>7.x-1.0-beta9</version>
+  <tag>7.x-1.0-beta9</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta9</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1180628</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta9.tar.gz</download_link>
+  <date>1307399219</date>
+  <mdhash>a51da006d630bd675b93635cdee9b2c0</mdhash>
+  <filesize>131527</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta9.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>a51da006d630bd675b93635cdee9b2c0</md5>
+    <size>131527</size>
+    <filedate>1307399219</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta9.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>3dc96589ee4ee7746aa69244639c13ad</md5>
+    <size>170040</size>
+    <filedate>1307399219</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.0-beta8</name>
+  <version>7.x-1.0-beta8</version>
+  <tag>7.x-1.0-beta8</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta8</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1114034</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta8.tar.gz</download_link>
+  <date>1301749869</date>
+  <mdhash>2245e66977cebe2df8b7c21ad289d192</mdhash>
+  <filesize>122416</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta8.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>2245e66977cebe2df8b7c21ad289d192</md5>
+    <size>122416</size>
+    <filedate>1301749869</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta8.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>e316a27668d99f6a6e48caa205144c25</md5>
+    <size>159171</size>
+    <filedate>1301749869</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.0-beta7</name>
+  <version>7.x-1.0-beta7</version>
+  <tag>7.x-1.0-beta7</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta7</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1084888</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta7.tar.gz</download_link>
+  <date>1299579669</date>
+  <mdhash>0a294f232c027260beceed26e28db761</mdhash>
+  <filesize>119377</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta7.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>0a294f232c027260beceed26e28db761</md5>
+    <size>119377</size>
+    <filedate>1299579669</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta7.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>d3209906800f704d9f6e63953e1203df</md5>
+    <size>155182</size>
+    <filedate>1299579669</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.0-beta6</name>
+  <version>7.x-1.0-beta6</version>
+  <tag>7.x-1.0-beta6</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta6</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1081612</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta6.tar.gz</download_link>
+  <date>1299263469</date>
+  <mdhash>84a19f33375ee7bb7d3bfc752fb0d4cc</mdhash>
+  <filesize>119213</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta6.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>84a19f33375ee7bb7d3bfc752fb0d4cc</md5>
+    <size>119213</size>
+    <filedate>1299263469</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta6.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>f7819a5517da6b18cfceb0a20dd57342</md5>
+    <size>155000</size>
+    <filedate>1299263469</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.0-beta5</name>
+  <version>7.x-1.0-beta5</version>
+  <tag>7.x-1.0-beta5</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta5</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1015864</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta5.tar.gz</download_link>
+  <date>1294241542</date>
+  <mdhash>2b82abb106e68ad339c6dc9aadf4f343</mdhash>
+  <filesize>110378</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta5.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>2b82abb106e68ad339c6dc9aadf4f343</md5>
+    <size>110378</size>
+    <filedate>1294241542</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta5.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>9e82d724dd0246b4f21810fae923ed24</md5>
+    <size>146630</size>
+    <filedate>1294241542</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.0-beta4</name>
+  <version>7.x-1.0-beta4</version>
+  <tag>7.x-1.0-beta4</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta4</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/984124</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta4.tar.gz</download_link>
+  <date>1291033545</date>
+  <mdhash>b11824307d4f26dcb0ed40bb94c82d75</mdhash>
+  <filesize>106267</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta4.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>b11824307d4f26dcb0ed40bb94c82d75</md5>
+    <size>106267</size>
+    <filedate>1291033545</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta4.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>e5227d431d35e21da304709af4e0cf40</md5>
+    <size>137295</size>
+    <filedate>1293234407</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.0-beta3</name>
+  <version>7.x-1.0-beta3</version>
+  <tag>7.x-1.0-beta3</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta3</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/927898</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta3.tar.gz</download_link>
+  <date>1285871472</date>
+  <mdhash>b324c2c807cca2b6599c3ceb1f1e4014</mdhash>
+  <filesize>124272</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta3.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>b324c2c807cca2b6599c3ceb1f1e4014</md5>
+    <size>124272</size>
+    <filedate>1285871472</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta3.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>0db0c227dfc2a34c95151409e82c9d6f</md5>
+    <size>156869</size>
+    <filedate>1293234407</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.0-beta2</name>
+  <version>7.x-1.0-beta2</version>
+  <tag>7.x-1.0-beta2</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta2</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/892468</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta2.tar.gz</download_link>
+  <date>1282688508</date>
+  <mdhash>51aab0439d0db66e24e735c92aaa8dff</mdhash>
+  <filesize>71460</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta2.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>51aab0439d0db66e24e735c92aaa8dff</md5>
+    <size>71460</size>
+    <filedate>1282688508</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta2.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>79737a15a956c05c5685532259fa433a</md5>
+    <size>86003</size>
+    <filedate>1293234407</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.0-beta1</name>
+  <version>7.x-1.0-beta1</version>
+  <tag>7.x-1.0-beta1</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta1</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/887434</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta1.tar.gz</download_link>
+  <date>1282176993</date>
+  <mdhash>4737f99778cd705d83264d149ba41389</mdhash>
+  <filesize>65467</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta1.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>4737f99778cd705d83264d149ba41389</md5>
+    <size>65467</size>
+    <filedate>1282176993</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.0-beta1.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>3071f57958218011749396b67bc8aee1</md5>
+    <size>76637</size>
+    <filedate>1293234407</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>search_api 7.x-1.x-dev</name>
+  <version>7.x-1.x-dev</version>
+  <tag>7.x-1.x</tag>
+  <version_major>1</version_major>
+  <version_extra>dev</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/838750</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/search_api-7.x-1.x-dev.tar.gz</download_link>
+  <date>1405960127</date>
+  <mdhash>e8d91f9e351be419eef07286187a6d29</mdhash>
+  <filesize>180563</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.x-dev.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>e8d91f9e351be419eef07286187a6d29</md5>
+    <size>180563</size>
+    <filedate>1405960127</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/search_api-7.x-1.x-dev.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>c30a15a757dd96b1b8b3b022a134baa1</md5>
+    <size>225776</size>
+    <filedate>1405960127</filedate>
+   </file>
+  </files>
+ </release>
+</releases>
+</project>

@@ -1,0 +1,11 @@
+{
+    "cid": "7.0-dev-commandfiles-2-4674fcad15c2920f449bdbdbaff2980d",
+    "data": {
+        "migrate.d8": "\/Users\/rallen\/.composer\/vendor\/drush\/drush\/commands\/core\/migrate.d8.drush.inc",
+        "views.d8": "\/Users\/rallen\/.composer\/vendor\/drush\/drush\/commands\/core\/views.d8.drush.inc",
+        "zen": "sites\/all\/themes\/zen\/zen-internals\/zen.drush.inc"
+    },
+    "created": 1407511832,
+    "headers": null,
+    "expire": 0
+}

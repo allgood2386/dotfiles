@@ -1,0 +1,2 @@
+#Check direcotry size with recursion
+du -hcx --max-depth=5 / | grep [0-9]G | sort -n -r

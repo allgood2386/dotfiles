@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>Coffee</title>
+<short_name>coffee</short_name>
+<dc:creator>michaelmol</dc:creator>
+<type>project_module</type>
+<api_version>7.x</api_version>
+<recommended_major>2</recommended_major>
+<supported_majors>1,2</supported_majors>
+<default_major>1</default_major>
+<project_status>published</project_status>
+<link>https://drupal.org/project/coffee</link>
+  <terms>
+   <term><name>Projects</name><value>Modules</value></term>
+   <term><name>Maintenance status</name><value>Actively maintained</value></term>
+   <term><name>Development status</name><value>Under active development</value></term>
+  </terms>
+<releases>
+ <release>
+  <name>coffee 7.x-2.2</name>
+  <version>7.x-2.2</version>
+  <tag>7.x-2.2</tag>
+  <version_major>2</version_major>
+  <version_patch>2</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/2232203</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/coffee-7.x-2.2.tar.gz</download_link>
+  <date>1396514346</date>
+  <mdhash>3721592e882a75508a37366ecb75a746</mdhash>
+  <filesize>14497</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/coffee-7.x-2.2.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>3721592e882a75508a37366ecb75a746</md5>
+    <size>14497</size>
+    <filedate>1396514346</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/coffee-7.x-2.2.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>0a791510ef9033ef22bc179251dacbd8</md5>
+    <size>17205</size>
+    <filedate>1396514346</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>coffee 7.x-2.1</name>
+  <version>7.x-2.1</version>
+  <tag>7.x-2.1</tag>
+  <version_major>2</version_major>
+  <version_patch>1</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/2222937</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/coffee-7.x-2.1.tar.gz</download_link>
+  <date>1395405857</date>
+  <mdhash>841ea67a24e2a5b79b543ff7c005fb36</mdhash>
+  <filesize>14435</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/coffee-7.x-2.1.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>841ea67a24e2a5b79b543ff7c005fb36</md5>
+    <size>14435</size>
+    <filedate>1395405857</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/coffee-7.x-2.1.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>761ce0ff5494981b9b42477f75d53e66</md5>
+    <size>17131</size>
+    <filedate>1395405857</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>coffee 7.x-2.0</name>
+  <version>7.x-2.0</version>
+  <tag>7.x-2.0</tag>
+  <version_major>2</version_major>
+  <version_patch>0</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1929504</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/coffee-7.x-2.0.tar.gz</download_link>
+  <date>1361998837</date>
+  <mdhash>831b5eddf35aa77c8c9523a4f41fc269</mdhash>
+  <filesize>14377</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/coffee-7.x-2.0.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>831b5eddf35aa77c8c9523a4f41fc269</md5>
+    <size>14377</size>
+    <filedate>1361998837</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/coffee-7.x-2.0.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>dbdafe48e1f12c95bcf3ce17ee3640cc</md5>
+    <size>17052</size>
+    <filedate>1361998837</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>coffee 7.x-1.0</name>
+  <version>7.x-1.0</version>
+  <tag>7.x-1.0</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1424226</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/coffee-7.x-1.0.tar.gz</download_link>
+  <date>1328101860</date>
+  <mdhash>25f82788540a5878471f73974b284af7</mdhash>
+  <filesize>12865</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/coffee-7.x-1.0.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>25f82788540a5878471f73974b284af7</md5>
+    <size>12865</size>
+    <filedate>1328101860</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/coffee-7.x-1.0.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>9babb1f207f34a1b9c6a85cb35d8dbfc</md5>
+    <size>14741</size>
+    <filedate>1328101860</filedate>
+   </file>
+  </files>
+ </release>
+ <release>
+  <name>coffee 7.x-2.x-dev</name>
+  <version>7.x-2.x-dev</version>
+  <tag>7.x-2.x</tag>
+  <version_major>2</version_major>
+  <version_extra>dev</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1468508</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/coffee-7.x-2.x-dev.tar.gz</download_link>
+  <date>1396287845</date>
+  <mdhash>6c497b61332c086fc897d3fd461a38c9</mdhash>
+  <filesize>14503</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/coffee-7.x-2.x-dev.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>6c497b61332c086fc897d3fd461a38c9</md5>
+    <size>14503</size>
+    <filedate>1396287845</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/coffee-7.x-2.x-dev.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>1ef81a2c8d60ba6a8b0d8b84c8d0da35</md5>
+    <size>17210</size>
+    <filedate>1396287845</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+</releases>
+</project>

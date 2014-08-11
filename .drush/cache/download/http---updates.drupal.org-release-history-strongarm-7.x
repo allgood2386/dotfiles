@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>Strongarm</title>
+<short_name>strongarm</short_name>
+<dc:creator>febbraro</dc:creator>
+<type>project_module</type>
+<api_version>7.x</api_version>
+<recommended_major>2</recommended_major>
+<supported_majors>2</supported_majors>
+<default_major>2</default_major>
+<project_status>published</project_status>
+<link>https://drupal.org/project/strongarm</link>
+  <terms>
+   <term><name>Projects</name><value>Modules</value></term>
+   <term><name>Maintenance status</name><value>Actively maintained</value></term>
+   <term><name>Development status</name><value>Under active development</value></term>
+   <term><name>Module categories</name><value>Utility</value></term>
+  </terms>
+<releases>
+ <release>
+  <name>strongarm 7.x-2.0</name>
+  <version>7.x-2.0</version>
+  <tag>7.x-2.0</tag>
+  <version_major>2</version_major>
+  <version_patch>0</version_patch>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1632574</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0.tar.gz</download_link>
+  <date>1339604214</date>
+  <mdhash>76f0757b173e612937b0e6ce0b9bca70</mdhash>
+  <filesize>12284</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>76f0757b173e612937b0e6ce0b9bca70</md5>
+    <size>12284</size>
+    <filedate>1339604214</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>a8fba24dd27f82d74154354bfcf7e10c</md5>
+    <size>14269</size>
+    <filedate>1339604214</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>strongarm 7.x-2.0-rc1</name>
+  <version>7.x-2.0-rc1</version>
+  <tag>7.x-2.0-rc1</tag>
+  <version_major>2</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>rc1</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1503174</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-rc1.tar.gz</download_link>
+  <date>1332787846</date>
+  <mdhash>1ee67266881e9d2d7617dd48cf4c5e36</mdhash>
+  <filesize>12280</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-rc1.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>1ee67266881e9d2d7617dd48cf4c5e36</md5>
+    <size>12280</size>
+    <filedate>1332787846</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-rc1.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>290977005ada8f29585f6bc9442b4a42</md5>
+    <size>14255</size>
+    <filedate>1332787846</filedate>
+   </file>
+  </files>
+ </release>
+ <release>
+  <name>strongarm 7.x-2.0-beta5</name>
+  <version>7.x-2.0-beta5</version>
+  <tag>7.x-2.0-beta5</tag>
+  <version_major>2</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta5</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1373018</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-beta5.tar.gz</download_link>
+  <date>1324046743</date>
+  <mdhash>b1e005f4ba1a08c8e78c041eabc5dcdf</mdhash>
+  <filesize>12278</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-beta5.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>b1e005f4ba1a08c8e78c041eabc5dcdf</md5>
+    <size>12278</size>
+    <filedate>1324046743</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-beta5.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>ffee0166d8b503d43c7cfeecc522c775</md5>
+    <size>14256</size>
+    <filedate>1324046743</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>strongarm 7.x-2.0-beta4</name>
+  <version>7.x-2.0-beta4</version>
+  <tag>7.x-2.0-beta4</tag>
+  <version_major>2</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta4</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1315986</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-beta4.tar.gz</download_link>
+  <date>1319128535</date>
+  <mdhash>dd2b5489eff881c8ac5600a985d82dbb</mdhash>
+  <filesize>12246</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-beta4.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>dd2b5489eff881c8ac5600a985d82dbb</md5>
+    <size>12246</size>
+    <filedate>1319128535</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-beta4.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>9f0822c236a4a3c35fbcb0158015825d</md5>
+    <size>14236</size>
+    <filedate>1319128535</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>strongarm 7.x-2.0-beta3</name>
+  <version>7.x-2.0-beta3</version>
+  <tag>7.x-2.0-beta3</tag>
+  <version_major>2</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta3</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1285658</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-beta3.tar.gz</download_link>
+  <date>1316558107</date>
+  <mdhash>1dfe9c89660a9fb31c36949e9d387e36</mdhash>
+  <filesize>12249</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-beta3.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>1dfe9c89660a9fb31c36949e9d387e36</md5>
+    <size>12249</size>
+    <filedate>1316558107</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-beta3.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>cbd3938a413e830d52f63b327ff2669f</md5>
+    <size>14235</size>
+    <filedate>1316558107</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>strongarm 7.x-2.0-beta2</name>
+  <version>7.x-2.0-beta2</version>
+  <tag>7.x-2.0-beta2</tag>
+  <version_major>2</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta2</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/924138</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-beta2.tar.gz</download_link>
+  <date>1285599361</date>
+  <mdhash>5bb7adb1f90ba6107fd793f0c5f2bfab</mdhash>
+  <filesize>12588</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-beta2.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>5bb7adb1f90ba6107fd793f0c5f2bfab</md5>
+    <size>12588</size>
+    <filedate>1285599361</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-beta2.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>889a9bf214b50846d42c3a30f4b324bb</md5>
+    <size>14762</size>
+    <filedate>1293234718</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>strongarm 7.x-2.0-beta1</name>
+  <version>7.x-2.0-beta1</version>
+  <tag>7.x-2.0-beta1</tag>
+  <version_major>2</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta1</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/907120</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-beta1.tar.gz</download_link>
+  <date>1284074210</date>
+  <mdhash>05634757865f7944d924d4630957cff6</mdhash>
+  <filesize>12558</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-beta1.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>05634757865f7944d924d4630957cff6</md5>
+    <size>12558</size>
+    <filedate>1284074210</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.0-beta1.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>2e0bf64ebf2e3545ff3a4ca0c36e5775</md5>
+    <size>14755</size>
+    <filedate>1293234717</filedate>
+   </file>
+  </files>
+ </release>
+ <release>
+  <name>strongarm 7.x-2.x-dev</name>
+  <version>7.x-2.x-dev</version>
+  <tag>7.x-2.x</tag>
+  <version_major>2</version_major>
+  <version_extra>dev</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1180398</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/strongarm-7.x-2.x-dev.tar.gz</download_link>
+  <date>1380638118</date>
+  <mdhash>11b392102dae9e36786f9b96895a9577</mdhash>
+  <filesize>12329</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.x-dev.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>11b392102dae9e36786f9b96895a9577</md5>
+    <size>12329</size>
+    <filedate>1380638118</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/strongarm-7.x-2.x-dev.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>9b09890867051e64716847ce73bcf68c</md5>
+    <size>14312</size>
+    <filedate>1380638118</filedate>
+   </file>
+  </files>
+ </release>
+</releases>
+</project>

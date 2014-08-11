@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>Address Field</title>
+<short_name>addressfield</short_name>
+<dc:creator>Damien Tournoud</dc:creator>
+<type>project_module</type>
+<api_version>7.x</api_version>
+<recommended_major>1</recommended_major>
+<supported_majors>1</supported_majors>
+<default_major>1</default_major>
+<project_status>published</project_status>
+<link>https://drupal.org/project/addressfield</link>
+  <terms>
+   <term><name>Projects</name><value>Modules</value></term>
+   <term><name>Maintenance status</name><value>Actively maintained</value></term>
+   <term><name>Development status</name><value>Under active development</value></term>
+   <term><name>Module categories</name><value>Fields</value></term>
+  </terms>
+<releases>
+ <release>
+  <name>addressfield 7.x-1.0-beta5</name>
+  <version>7.x-1.0-beta5</version>
+  <tag>7.x-1.0-beta5</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta5</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/2151159</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-beta5.tar.gz</download_link>
+  <date>1386309504</date>
+  <mdhash>63d28860718d212d0b68d7c1a199590e</mdhash>
+  <filesize>67249</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-beta5.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>63d28860718d212d0b68d7c1a199590e</md5>
+    <size>67249</size>
+    <filedate>1386309504</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-beta5.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>d65ffa294c122e029d328a4206ae0be8</md5>
+    <size>75795</size>
+    <filedate>1386309504</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>addressfield 7.x-1.0-beta4</name>
+  <version>7.x-1.0-beta4</version>
+  <tag>7.x-1.0-beta4</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta4</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1989250</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-beta4.tar.gz</download_link>
+  <date>1367945111</date>
+  <mdhash>884414b0ad4afd037b5ba1cec1d107e3</mdhash>
+  <filesize>61233</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-beta4.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>884414b0ad4afd037b5ba1cec1d107e3</md5>
+    <size>61233</size>
+    <filedate>1367945111</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-beta4.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>1ce458699076e705107a3797364ac1de</md5>
+    <size>68881</size>
+    <filedate>1367945111</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>addressfield 7.x-1.0-beta3</name>
+  <version>7.x-1.0-beta3</version>
+  <tag>7.x-1.0-beta3</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta3</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1606128</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-beta3.tar.gz</download_link>
+  <date>1338304248</date>
+  <mdhash>a3df218c4f779a03f4efe4c87d9eaf53</mdhash>
+  <filesize>52898</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-beta3.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>a3df218c4f779a03f4efe4c87d9eaf53</md5>
+    <size>52898</size>
+    <filedate>1338304248</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-beta3.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>c9f6dacb125b16538965a99273589fb1</md5>
+    <size>59350</size>
+    <filedate>1338304248</filedate>
+   </file>
+  </files>
+ </release>
+ <release>
+  <name>addressfield 7.x-1.0-beta2</name>
+  <version>7.x-1.0-beta2</version>
+  <tag>7.x-1.0-beta2</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta2</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1267042</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-beta2.tar.gz</download_link>
+  <date>1314906115</date>
+  <mdhash>8ea36908a8aeca560c273acc75f79d2f</mdhash>
+  <filesize>51350</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-beta2.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>8ea36908a8aeca560c273acc75f79d2f</md5>
+    <size>51350</size>
+    <filedate>1314906115</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-beta2.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>d402573a2f448b3184be2461b1c9caa0</md5>
+    <size>57480</size>
+    <filedate>1314906115</filedate>
+   </file>
+  </files>
+ </release>
+ <release>
+  <name>addressfield 7.x-1.0-beta1</name>
+  <version>7.x-1.0-beta1</version>
+  <tag>7.x-1.0-beta1</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>beta1</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1218038</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-beta1.tar.gz</download_link>
+  <date>1310587614</date>
+  <mdhash>b945c657d8a1d05fc3008a0b93d71595</mdhash>
+  <filesize>18370</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-beta1.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>b945c657d8a1d05fc3008a0b93d71595</md5>
+    <size>18370</size>
+    <filedate>1310587614</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-beta1.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>d300ba43b4f53b3e13546c4158a419a6</md5>
+    <size>22952</size>
+    <filedate>1310587614</filedate>
+   </file>
+  </files>
+ </release>
+ <release>
+  <name>addressfield 7.x-1.0-alpha4</name>
+  <version>7.x-1.0-alpha4</version>
+  <tag>7.x-1.0-alpha4</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>alpha4</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1186010</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-alpha4.tar.gz</download_link>
+  <date>1307853714</date>
+  <mdhash>ae1698ed003872b6f51e53319d41dbc0</mdhash>
+  <filesize>15085</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-alpha4.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>ae1698ed003872b6f51e53319d41dbc0</md5>
+    <size>15085</size>
+    <filedate>1307853714</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-alpha4.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>e604e73cd4959a6778dfe418c3a38685</md5>
+    <size>20236</size>
+    <filedate>1307853714</filedate>
+   </file>
+  </files>
+ </release>
+ <release>
+  <name>addressfield 7.x-1.0-alpha3</name>
+  <version>7.x-1.0-alpha3</version>
+  <tag>7.x-1.0-alpha3</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>alpha3</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1185648</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-alpha3.tar.gz</download_link>
+  <date>1307808115</date>
+  <mdhash>3d17e265474c269056a8e32123fa7db1</mdhash>
+  <filesize>15097</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-alpha3.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>3d17e265474c269056a8e32123fa7db1</md5>
+    <size>15097</size>
+    <filedate>1307808115</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-alpha3.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>743d85aaa07765549d8170ae81937848</md5>
+    <size>20238</size>
+    <filedate>1307808115</filedate>
+   </file>
+  </files>
+ </release>
+ <release>
+  <name>addressfield 7.x-1.0-alpha2</name>
+  <version>7.x-1.0-alpha2</version>
+  <tag>7.x-1.0-alpha2</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>alpha2</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/1130758</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-alpha2.tar.gz</download_link>
+  <date>1303140714</date>
+  <mdhash>8ceff09ca7655dea59d15add3aae1608</mdhash>
+  <filesize>13906</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-alpha2.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>8ceff09ca7655dea59d15add3aae1608</md5>
+    <size>13906</size>
+    <filedate>1303140714</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-alpha2.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>fe0abfa5601d47fd2514576c1639269a</md5>
+    <size>18603</size>
+    <filedate>1303140714</filedate>
+   </file>
+  </files>
+ </release>
+ <release>
+  <name>addressfield 7.x-1.0-alpha1</name>
+  <version>7.x-1.0-alpha1</version>
+  <tag>7.x-1.0-alpha1</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <version_extra>alpha1</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/936548</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-alpha1.tar.gz</download_link>
+  <date>1286607059</date>
+  <mdhash>bd3d8946deeb2d99d559827208112f98</mdhash>
+  <filesize>10632</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-alpha1.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>bd3d8946deeb2d99d559827208112f98</md5>
+    <size>10632</size>
+    <filedate>1286607059</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.0-alpha1.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>6da268db3e26f513ebe9c8031aafb25e</md5>
+    <size>13295</size>
+    <filedate>1293229520</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>addressfield 7.x-1.x-dev</name>
+  <version>7.x-1.x-dev</version>
+  <tag>7.x-1.x</tag>
+  <version_major>1</version_major>
+  <version_extra>dev</version_extra>
+  <status>published</status>
+  <release_link>https://drupal.org/node/797088</release_link>
+  <download_link>http://ftp.drupal.org/files/projects/addressfield-7.x-1.x-dev.tar.gz</download_link>
+  <date>1385263104</date>
+  <mdhash>b673e82394730ad90521e65a2b58a098</mdhash>
+  <filesize>67243</filesize>
+  <files>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.x-dev.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>b673e82394730ad90521e65a2b58a098</md5>
+    <size>67243</size>
+    <filedate>1385263104</filedate>
+   </file>
+   <file>
+    <url>http://ftp.drupal.org/files/projects/addressfield-7.x-1.x-dev.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>7298f7c475bedee6776c638cd6d1b562</md5>
+    <size>75792</size>
+    <filedate>1385263104</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+  </terms>
+ </release>
+</releases>
+</project>

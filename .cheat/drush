@@ -1,0 +1,2 @@
+# To search delete nodes with cleanup hooks using SQL:
+drush sqlq "SELECT nid FROM node WHERE nid >= 435193 AND type='school'" | grep -v nid|tr '\n' ','|awk '{print "drush ev \"node_delete_multiple(array("$1"))\""}'|sh
