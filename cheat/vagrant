@@ -1,0 +1,3 @@
+#HostsManager Config
+config.vm.hostname = "www.testing.de"
+config.hostsupdater.aliases = ["alias.testing.de", "alias2.somedomain.com"]
