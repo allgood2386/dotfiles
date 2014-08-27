@@ -4,3 +4,4 @@ hist = log --pretty=format:\"%Cred%h%Creset %C(yellow)(%ad)%Creset  %s %C(magent
 	email = rallen@taoti.com
 [core]
 	fileMode = false
+	excludesfile = ~/.global-gitignore
