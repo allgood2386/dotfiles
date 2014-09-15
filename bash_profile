@@ -29,5 +29,5 @@ export PS1="\u@\h \w \[$txtcyn\]\$git_branch\[$txtred\]\$git_dirty\[$txtrst\]\$ 
 
 export JAVA_HOME="$(/usr/libexec/java_home)"
 export EC2_HOME="/usr/local/Cellar/ec2-api-tools/1.6.13.0/libexec"
-export AWS_ACCESS_KEY=AKIAJP2OJY7N3USIWTNQ
-export AWS_SECRET_KEY=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
+fortune | ponysay
+export PATH="~/.terraform:$PATH"

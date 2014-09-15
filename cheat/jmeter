@@ -1,0 +1,2 @@
+#Run test with propery file and output results
+jmeter -n -t aacu.jmx -p user.properties -l result.jtl
