@@ -1,0 +1,2 @@
+#run a local webserver to a file like so http://10.9.1.163:11111
+ruby -run -e httpd path/tofile -p 11111

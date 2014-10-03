@@ -7,7 +7,6 @@ alias ensfp='drush en -y stage_file_proxy; drush vset stage_file_proxy_origin'
 alias vgs='vagrant global-status'
 export PATH=/usr/local/bin:$PATH
 export PATH="./vendor/bundle/bin:$PATH"
-export SALTPATH=/usr/local/Cellar/salt/2.4/data
 
 eval "$(rbenv init -)"
 alias b="bundle exec"
