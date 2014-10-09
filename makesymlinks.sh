@@ -30,6 +30,6 @@ for file in $files; do
     ln -s $dir/$file ~/.$file
 done
 
+cp -R ./git-aware-prompt ~/.git-aware-prompt
+
 source ~/.bash_profile
-
-
