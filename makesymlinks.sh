@@ -8,7 +8,7 @@
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="bashrc vimrc vim bash_profile drush cheat gitconfig .git-completetion.bash global-gitignore"    # list of files/folders to symlink in homedir
+files="drush cheat"    # list of files/folders to symlink in homedir
 
 ##########
 
@@ -29,9 +29,6 @@ for file in $files; do
     echo "Creating symlink to $file in home directory."
     ln -s $dir/$file ~/.$file
 done
-
-#Move bash completetion to home directory.
-cp .git-completion.bash ~/
 
 source ~/.bash_profile
 

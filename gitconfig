@@ -1,7 +1,0 @@
-hist = log --pretty=format:\"%Cred%h%Creset %C(yellow)(%ad)%Creset  %s %C(magenta)%d%Creset %C(bold cyan)<%an>%Creset\" --graph --date=short
-[user]
-	name = Rich Allen
-	email = rallen@taoti.com
-[core]
-	fileMode = false
-	excludesfile = ~/.global-gitignore
