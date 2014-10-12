@@ -1,3 +1,4 @@
+#!/bin/sh
 # Check for Homebrew,
 # Install if we don't have it
 if test ! $(which brew); then
@@ -16,6 +17,8 @@ taps=(
 )
 echo "installing binaries..."
 brew tap ${taps[@]}
+
+brew cleanup
 
 binaries=(
 	ansible
@@ -97,5 +100,7 @@ fonts=(
 # install fonts
 echo "installing fonts..."
 brew cask install ${fonts[@]}
+
+composer global require drush/drush:dev-master
 
 ./makesymlinks.sh
