@@ -3,4 +3,4 @@
 	url = https://github.com/jimeh/git-aware-prompt.git
 [submodule "osx-for-hackers-fork"]
 	path = osx-for-hackers-fork
-	url = git@gist.github.com:/387863b2e4a97f7b7441.git
+	url = https://gist.github.com/387863b2e4a97f7b7441.git
