@@ -1,6 +1,6 @@
 [submodule "git-aware-prompt"]
 	path = git-aware-prompt
 	url = https://github.com/jimeh/git-aware-prompt.git
-[submodule "osx-for-hackers-fork"]
-	path = osx-for-hackers-fork
+[submodule "osx-for-hackers-allgood"]
+	path = osx-for-hackers-allgood
 	url = https://gist.github.com/387863b2e4a97f7b7441.git
