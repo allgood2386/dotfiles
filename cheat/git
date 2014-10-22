@@ -1,2 +1,5 @@
 #Clone submodules
 git submodule update --init --recursive
+
+#Delete remote branches
+git push origin --delete <branchName>
