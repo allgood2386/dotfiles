@@ -1,0 +1,2 @@
+#Create a simple image of size
+convert  -size 100x100 gradient:  gradient.jpg

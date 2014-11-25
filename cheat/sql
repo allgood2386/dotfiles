@@ -1,0 +1,8 @@
+#Get database table sizes, replace aacu with db name
+SELECT 
+TABLE_NAME, table_rows, data_length, index_length,  
+round(((data_length + index_length) / 1024 / 1024),2) 'Size in MB' 
+FROM information_schema.TABLES 
+WHERE table_schema = 'aacu' and TABLE_TYPE='BASE TABLE' 
+ORDER BY data_length DESC
+LIMIT 20;

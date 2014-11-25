@@ -1,2 +1,5 @@
 drush/cache
 .idea
+.vagrant
+*~
+.DS_Store
