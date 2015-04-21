@@ -3,3 +3,5 @@ drush/cache
 .vagrant
 *~
 .DS_Store
+.sass_cache/*
+.bundle/*

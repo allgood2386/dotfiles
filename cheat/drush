@@ -1,2 +1,10 @@
 # To search delete nodes with cleanup hooks using SQL:
 drush sqlq "SELECT nid FROM node WHERE nid >= 435193 AND type='school'" | grep -v nid|tr '\n' ','|awk '{print "drush ev \"node_delete_multiple(array("$1"))\""}'|sh
+
+# To turn on JS Aggregation
+    drush vset preprocess_js 1 --yes
+
+# To enable CSS Aggregation
+   drush vset preprocess_css 1 --yes
+# See if hook is implmented
+drush @americansall.vagrant ev "print_r(module_implements('form'));"

@@ -12,3 +12,9 @@ git config core.fileMode false
 
 #Format Patches from Commits
 git format-patch -10 HEAD --stdout > 0001-last-10-commits.patch
+
+#Delete all branches fully merged with the current working branch
+git branch --merged | grep -v "\*" | xargs -n 1 git branch -d
+
+#Clean Current directory of untracked files. -d means directoies as well.
+git clean -fd

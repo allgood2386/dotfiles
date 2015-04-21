@@ -68,6 +68,7 @@ apps=(
 	chromecast
 	chrome-remote-desktop-host
   	dropbox
+	deluge
 	evernote
 	firefox
   	google-chrome
