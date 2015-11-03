@@ -1,0 +1,5 @@
+#Log into varnish on blackmesh-prod
+sudo varnishadm -T 127.0.0.1:6082 -S /etc/varnish/secret
+
+#Ban specific urls from a site once in varnishadmn command line
+ban req.http.host ~ ifes.org && req.url ~ index.php

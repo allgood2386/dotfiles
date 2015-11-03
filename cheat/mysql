@@ -1,0 +1,21 @@
+# To connect to a database
+mysql -h localhost -u root -p
+
+# To backup all databases
+mysqldump --all-databases --all-routines -u root -p > ~/fulldump.sql
+
+# To restore all databases
+mysql -u root -p  < ~/fulldump.sql
+
+# To create a database in utf8 charset
+CREATE DATABASE owa CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+# To add a user and give rights on the given database
+GRANT ALL PRIVILEGES ON database.* TO 'user'@'localhost'IDENTIFIED BY 'password' WITH GRANT OPTION;
+
+#Show table sizes
+SELECT TABLE_NAME, table_rows, data_length, index_length, round(((data_length + index_length) / 1024 / 1024),2) 'Size in MB' 
+FROM information_schema.TABLES
+WHERE table_schema = 'aacu' and TABLE_TYPE='BASE TABLE'
+ORDER BY data_length DESC
+LIMIT 20;
